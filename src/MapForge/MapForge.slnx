@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="ConsoleSandbox/ConsoleSandbox.csproj" Id="a45a65b8-5009-4458-bcd0-dc0550838d25" />
   <Project Path="MapForge/MapForge.csproj" />
 </Solution>

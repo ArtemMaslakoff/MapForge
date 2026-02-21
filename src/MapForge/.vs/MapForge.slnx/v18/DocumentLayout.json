@@ -3,8 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\MapForge\\src\\MapForge\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A4F7CE4-E1A2-01B8-FDE6-6590E67A6E34}|MapForge\\MapForge.csproj|c:\\users\\\u0430\u0440\u0442\u0435\u043C\\desktop\\mapforge\\src\\mapforge\\mapforge\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A4F7CE4-E1A2-01B8-FDE6-6590E67A6E34}|MapForge\\MapForge.csproj|solutionrelative:mapforge\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A4F7CE4-E1A2-01B8-FDE6-6590E67A6E34}|MapForge\\MapForge.csproj|c:\\users\\\u0430\u0440\u0442\u0435\u043C\\desktop\\mapforge\\src\\mapforge\\mapforge\\mapfabrics\\mapfillfabric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4F7CE4-E1A2-01B8-FDE6-6590E67A6E34}|MapForge\\MapForge.csproj|solutionrelative:mapforge\\mapfabrics\\mapfillfabric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A45A65B8-5009-4458-BCD0-DC0550838D25}|ConsoleSandbox\\ConsoleSandbox.csproj|c:\\users\\\u0430\u0440\u0442\u0435\u043C\\desktop\\mapforge\\src\\mapforge\\consolesandbox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A45A65B8-5009-4458-BCD0-DC0550838D25}|ConsoleSandbox\\ConsoleSandbox.csproj|solutionrelative:consolesandbox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4F7CE4-E1A2-01B8-FDE6-6590E67A6E34}|MapForge\\MapForge.csproj|c:\\users\\\u0430\u0440\u0442\u0435\u043C\\desktop\\mapforge\\src\\mapforge\\mapforge\\mapforge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5A4F7CE4-E1A2-01B8-FDE6-6590E67A6E34}|MapForge\\MapForge.csproj|solutionrelative:mapforge\\mapforge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4F7CE4-E1A2-01B8-FDE6-6590E67A6E34}|MapForge\\MapForge.csproj|c:\\users\\\u0430\u0440\u0442\u0435\u043C\\desktop\\mapforge\\src\\mapforge\\mapforge\\maps\\maps3dcube\\map3dcube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4F7CE4-E1A2-01B8-FDE6-6590E67A6E34}|MapForge\\MapForge.csproj|solutionrelative:mapforge\\maps\\maps3dcube\\map3dcube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4F7CE4-E1A2-01B8-FDE6-6590E67A6E34}|MapForge\\MapForge.csproj|c:\\users\\\u0430\u0440\u0442\u0435\u043C\\desktop\\mapforge\\src\\mapforge\\mapforge\\maps\\maps2dhex\\map2dhex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4F7CE4-E1A2-01B8-FDE6-6590E67A6E34}|MapForge\\MapForge.csproj|solutionrelative:mapforge\\maps\\maps2dhex\\map2dhex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4F7CE4-E1A2-01B8-FDE6-6590E67A6E34}|MapForge\\MapForge.csproj|c:\\users\\\u0430\u0440\u0442\u0435\u043C\\desktop\\mapforge\\src\\mapforge\\mapforge\\maps\\parameters\\parameterdefinitionbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4F7CE4-E1A2-01B8-FDE6-6590E67A6E34}|MapForge\\MapForge.csproj|solutionrelative:mapforge\\maps\\parameters\\parameterdefinitionbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4F7CE4-E1A2-01B8-FDE6-6590E67A6E34}|MapForge\\MapForge.csproj|c:\\users\\\u0430\u0440\u0442\u0435\u043C\\desktop\\mapforge\\src\\mapforge\\mapforge\\maps\\parameters\\numericparameterdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4F7CE4-E1A2-01B8-FDE6-6590E67A6E34}|MapForge\\MapForge.csproj|solutionrelative:mapforge\\maps\\parameters\\numericparameterdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4F7CE4-E1A2-01B8-FDE6-6590E67A6E34}|MapForge\\MapForge.csproj|c:\\users\\\u0430\u0440\u0442\u0435\u043C\\desktop\\mapforge\\src\\mapforge\\mapforge\\maps\\core\\cellvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4F7CE4-E1A2-01B8-FDE6-6590E67A6E34}|MapForge\\MapForge.csproj|solutionrelative:mapforge\\maps\\core\\cellvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4F7CE4-E1A2-01B8-FDE6-6590E67A6E34}|MapForge\\MapForge.csproj|c:\\users\\\u0430\u0440\u0442\u0435\u043C\\desktop\\mapforge\\src\\mapforge\\mapforge\\maps\\core\\icell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4F7CE4-E1A2-01B8-FDE6-6590E67A6E34}|MapForge\\MapForge.csproj|solutionrelative:mapforge\\maps\\core\\icell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4F7CE4-E1A2-01B8-FDE6-6590E67A6E34}|MapForge\\MapForge.csproj|c:\\users\\\u0430\u0440\u0442\u0435\u043C\\desktop\\mapforge\\src\\mapforge\\mapforge\\maps\\core\\imap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4F7CE4-E1A2-01B8-FDE6-6590E67A6E34}|MapForge\\MapForge.csproj|solutionrelative:mapforge\\maps\\core\\imap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4F7CE4-E1A2-01B8-FDE6-6590E67A6E34}|MapForge\\MapForge.csproj|c:\\users\\\u0430\u0440\u0442\u0435\u043C\\desktop\\mapforge\\src\\mapforge\\mapforge\\maps\\core\\iparameterdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4F7CE4-E1A2-01B8-FDE6-6590E67A6E34}|MapForge\\MapForge.csproj|solutionrelative:mapforge\\maps\\core\\iparameterdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4F7CE4-E1A2-01B8-FDE6-6590E67A6E34}|MapForge\\MapForge.csproj|c:\\users\\\u0430\u0440\u0442\u0435\u043C\\desktop\\mapforge\\src\\mapforge\\mapforge\\maps\\maps2dsquare\\cell2dsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4F7CE4-E1A2-01B8-FDE6-6590E67A6E34}|MapForge\\MapForge.csproj|solutionrelative:mapforge\\maps\\maps2dsquare\\cell2dsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4F7CE4-E1A2-01B8-FDE6-6590E67A6E34}|MapForge\\MapForge.csproj|c:\\users\\\u0430\u0440\u0442\u0435\u043C\\desktop\\mapforge\\src\\mapforge\\mapforge\\maps\\maps2dsquare\\map2dsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4F7CE4-E1A2-01B8-FDE6-6590E67A6E34}|MapForge\\MapForge.csproj|solutionrelative:mapforge\\maps\\maps2dsquare\\map2dsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4F7CE4-E1A2-01B8-FDE6-6590E67A6E34}|MapForge\\MapForge.csproj|c:\\users\\\u0430\u0440\u0442\u0435\u043C\\desktop\\mapforge\\src\\mapforge\\mapforge\\maps\\parameters\\stringparameterdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4F7CE4-E1A2-01B8-FDE6-6590E67A6E34}|MapForge\\MapForge.csproj|solutionrelative:mapforge\\maps\\parameters\\stringparameterdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4F7CE4-E1A2-01B8-FDE6-6590E67A6E34}|MapForge\\MapForge.csproj|c:\\users\\\u0430\u0440\u0442\u0435\u043C\\desktop\\mapforge\\src\\mapforge\\mapforge\\maps\\parameters\\booleanparameterdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4F7CE4-E1A2-01B8-FDE6-6590E67A6E34}|MapForge\\MapForge.csproj|solutionrelative:mapforge\\maps\\parameters\\booleanparameterdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\MapForge\\src\\MapForge\\MapForge\\Maps2DHex\\Grid2DHex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MapForge\\Maps2DHex\\Grid2DHex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +79,201 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\MapForge\\src\\MapForge\\MapForge\\Class1.cs",
-              "RelativeDocumentMoniker": "MapForge\\Class1.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\MapForge\\src\\MapForge\\MapForge\\Class1.cs",
-              "RelativeToolTip": "MapForge\\Class1.cs",
+              "Title": "MapFillFabric.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\MapForge\\src\\MapForge\\MapForge\\MapFabrics\\MapFillFabric.cs",
+              "RelativeDocumentMoniker": "MapForge\\MapFabrics\\MapFillFabric.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\MapForge\\src\\MapForge\\MapForge\\MapFabrics\\MapFillFabric.cs",
+              "RelativeToolTip": "MapForge\\MapFabrics\\MapFillFabric.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAIsAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T09:09:32.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\MapForge\\src\\MapForge\\ConsoleSandbox\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleSandbox\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\MapForge\\src\\MapForge\\ConsoleSandbox\\Program.cs",
+              "RelativeToolTip": "ConsoleSandbox\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T08:29:44.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Map3DCube.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\MapForge\\src\\MapForge\\MapForge\\Maps\\Maps3DCube\\Map3DCube.cs",
+              "RelativeDocumentMoniker": "MapForge\\Maps\\Maps3DCube\\Map3DCube.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\MapForge\\src\\MapForge\\MapForge\\Maps\\Maps3DCube\\Map3DCube.cs",
+              "RelativeToolTip": "MapForge\\Maps\\Maps3DCube\\Map3DCube.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T14:59:25.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MapForge.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\MapForge\\src\\MapForge\\MapForge\\MapForge.csproj",
+              "RelativeDocumentMoniker": "MapForge\\MapForge.csproj",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\MapForge\\src\\MapForge\\MapForge\\MapForge.csproj",
+              "RelativeToolTip": "MapForge\\MapForge.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-16T08:26:29.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Map2DHex.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\MapForge\\src\\MapForge\\MapForge\\Maps\\Maps2DHex\\Map2DHex.cs",
+              "RelativeDocumentMoniker": "MapForge\\Maps\\Maps2DHex\\Map2DHex.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\MapForge\\src\\MapForge\\MapForge\\Maps\\Maps2DHex\\Map2DHex.cs",
+              "RelativeToolTip": "MapForge\\Maps\\Maps2DHex\\Map2DHex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T14:59:00.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IParameterDefinition.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\MapForge\\src\\MapForge\\MapForge\\Maps\\Core\\IParameterDefinition.cs",
+              "RelativeDocumentMoniker": "MapForge\\Maps\\Core\\IParameterDefinition.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\MapForge\\src\\MapForge\\MapForge\\Maps\\Core\\IParameterDefinition.cs",
+              "RelativeToolTip": "MapForge\\Maps\\Core\\IParameterDefinition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T23:01:15.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMap.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\MapForge\\src\\MapForge\\MapForge\\Maps\\Core\\IMap.cs",
+              "RelativeDocumentMoniker": "MapForge\\Maps\\Core\\IMap.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\MapForge\\src\\MapForge\\MapForge\\Maps\\Core\\IMap.cs",
+              "RelativeToolTip": "MapForge\\Maps\\Core\\IMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T15:10:09.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cell2DSquare.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\MapForge\\src\\MapForge\\MapForge\\Maps\\Maps2DSquare\\Cell2DSquare.cs",
+              "RelativeDocumentMoniker": "MapForge\\Maps\\Maps2DSquare\\Cell2DSquare.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\MapForge\\src\\MapForge\\MapForge\\Maps\\Maps2DSquare\\Cell2DSquare.cs",
+              "RelativeToolTip": "MapForge\\Maps\\Maps2DSquare\\Cell2DSquare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T23:37:49.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NumericParameterDefinition.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\MapForge\\src\\MapForge\\MapForge\\Maps\\Parameters\\NumericParameterDefinition.cs",
+              "RelativeDocumentMoniker": "MapForge\\Maps\\Parameters\\NumericParameterDefinition.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\MapForge\\src\\MapForge\\MapForge\\Maps\\Parameters\\NumericParameterDefinition.cs",
+              "RelativeToolTip": "MapForge\\Maps\\Parameters\\NumericParameterDefinition.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T23:37:29.904Z",
+              "WhenOpened": "2026-02-16T23:21:07.594Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ParameterDefinitionBase.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\MapForge\\src\\MapForge\\MapForge\\Maps\\Parameters\\ParameterDefinitionBase.cs",
+              "RelativeDocumentMoniker": "MapForge\\Maps\\Parameters\\ParameterDefinitionBase.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\MapForge\\src\\MapForge\\MapForge\\Maps\\Parameters\\ParameterDefinitionBase.cs",
+              "RelativeToolTip": "MapForge\\Maps\\Parameters\\ParameterDefinitionBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T07:29:51.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CellValue.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\MapForge\\src\\MapForge\\MapForge\\Maps\\Core\\CellValue.cs",
+              "RelativeDocumentMoniker": "MapForge\\Maps\\Core\\CellValue.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\MapForge\\src\\MapForge\\MapForge\\Maps\\Core\\CellValue.cs",
+              "RelativeToolTip": "MapForge\\Maps\\Core\\CellValue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T00:07:02.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICell.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\MapForge\\src\\MapForge\\MapForge\\Maps\\Core\\ICell.cs",
+              "RelativeDocumentMoniker": "MapForge\\Maps\\Core\\ICell.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\MapForge\\src\\MapForge\\MapForge\\Maps\\Core\\ICell.cs",
+              "RelativeToolTip": "MapForge\\Maps\\Core\\ICell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T15:10:18.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Map2DSquare.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\MapForge\\src\\MapForge\\MapForge\\Maps\\Maps2DSquare\\Map2DSquare.cs",
+              "RelativeDocumentMoniker": "MapForge\\Maps\\Maps2DSquare\\Map2DSquare.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\MapForge\\src\\MapForge\\MapForge\\Maps\\Maps2DSquare\\Map2DSquare.cs",
+              "RelativeToolTip": "MapForge\\Maps\\Maps2DSquare\\Map2DSquare.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T23:40:34.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StringParameterDefinition.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\MapForge\\src\\MapForge\\MapForge\\Maps\\Parameters\\StringParameterDefinition.cs",
+              "RelativeDocumentMoniker": "MapForge\\Maps\\Parameters\\StringParameterDefinition.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\MapForge\\src\\MapForge\\MapForge\\Maps\\Parameters\\StringParameterDefinition.cs",
+              "RelativeToolTip": "MapForge\\Maps\\Parameters\\StringParameterDefinition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T00:00:50.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BooleanParameterDefinition.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\MapForge\\src\\MapForge\\MapForge\\Maps\\Parameters\\BooleanParameterDefinition.cs",
+              "RelativeDocumentMoniker": "MapForge\\Maps\\Parameters\\BooleanParameterDefinition.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\MapForge\\src\\MapForge\\MapForge\\Maps\\Parameters\\BooleanParameterDefinition.cs",
+              "RelativeToolTip": "MapForge\\Maps\\Parameters\\BooleanParameterDefinition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:59:37.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Grid2DHex.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\MapForge\\src\\MapForge\\MapForge\\Maps2DHex\\Grid2DHex.cs",
+              "RelativeDocumentMoniker": "MapForge\\Maps2DHex\\Grid2DHex.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\MapForge\\src\\MapForge\\MapForge\\Maps2DHex\\Grid2DHex.cs",
+              "RelativeToolTip": "MapForge\\Maps2DHex\\Grid2DHex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T15:44:05.965Z"
             }
           ]
         }

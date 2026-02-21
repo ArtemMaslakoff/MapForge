@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "MapForge": {
+      "commandName": "Project",
+      "nativeDebugging": false,
+      "sqlDebugging": false
+    },
+    "Профиль 1": {
+      "commandName": "Executable"
+    }
+  }
+}
