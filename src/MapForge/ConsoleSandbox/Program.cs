@@ -15,6 +15,7 @@ internal class Program
 
         var map = new Map2DSquare("Main", 13, 13, parameters);
 
+        MapFillFabric.FillBand<bool>(map, "IsWater", true, 1, 2, 5);
         MapFillFabric.FillInterior<int>(map, "Height", 77, 2);
         // Опционально: явно заполнить все ячейки дефолтами (если добавишь MapFillFabric.FullDefaultFill)
         // MapFillFabric.FullDefaultFill(map);
